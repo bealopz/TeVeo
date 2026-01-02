@@ -1,0 +1,5 @@
+{
+  "name": "Teseo - Comic Generator",
+  "description": "Upload an image, and Teseo will generate a short comic story based on it. You can download the original image or the generated comic.",
+  "requestFramePermissions": []
+}
